@@ -19,8 +19,6 @@ A machine learning project that classifies underwater objects—rocks or naval m
 - [Future Work](#future-work)  
 - [Screenshots](#screenshots)  
 - [Contributing](#contributing)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)
 
 ---
 
